@@ -1,8 +1,9 @@
-![Web-Developer](/MacBook%20Air%20-%201.png)
+<!-- ![Web-Developer](/MacBook%20Air%20-%201.png) -->
 
-## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+<!-- ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
+## Hi 👋, I'm Marc Eubert Contado
 
-### Portfolio: https://eubert369.github.io/Eubert_Webpage/
+<!-- ### Portfolio: https://eubert369.github.io/Eubert_Webpage/ -->
 
 <a href="www.linkedin.com/in/marc-eubert-contado-846996290">
   <img align="left" alt="Marc Eubert Contado" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
