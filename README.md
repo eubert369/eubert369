@@ -1,16 +1,21 @@
 <!-- ![Web-Developer](/MacBook%20Air%20-%201.png) -->
 
 <!-- ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
+
 ## Hi 👋, I'm Marc Eubert Contado
 
 <!-- ### Portfolio: https://eubert369.github.io/Eubert_Webpage/ -->
 
-<a href="www.linkedin.com/in/marc-eubert-contado-846996290">
-  <img align="left" alt="Marc Eubert Contado" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+<div style="display: flex; gap: 15px;">
+<a href="www.linkedin.com/in/marc-eubert-contado-846996290" style=" display: flex; gap: 5px; justify-content: center; align-items: center; width: fit-content; background-color: #0A66C2; padding: 3px 5px; border-radius: 5px;">
+  <img alt="Marc Eubert Contado" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+  <p style="padding: 0px; margin: 0px; color: #fff; font-weight: bold;">Linkedin</p>
 </a>
-<a href="https://www.facebook.com/marceubert.contado">
-  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" />
+<a href="https://www.facebook.com/marceubert.contado" style=" display: flex; gap: 5px; justify-content: center; align-items: center; width: fit-content; background-color: #4460A0; padding: 3px 5px; border-radius: 5px;">
+  <img alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" />
+  <p style="padding: 0px; margin: 0px; color: #fff; font-weight: bold;">Facebook</p>
 </a>
+</div>
 
 <br />
 <br />
