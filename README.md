@@ -6,16 +6,9 @@
 
 <!-- ### Portfolio: https://eubert369.github.io/Eubert_Webpage/ -->
 
-<div style="display: flex; gap: 15px;">
-<a href="www.linkedin.com/in/marc-eubert-contado-846996290" style=" display: flex; gap: 5px; justify-content: center; align-items: center; width: fit-content; background-color: #0A66C2; padding: 3px 5px; border-radius: 5px;">
-  <img alt="Marc Eubert Contado" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-  <p style="padding: 0px; margin: 0px; color: #fff; font-weight: bold;">Linkedin</p>
-</a>
-<a href="https://www.facebook.com/marceubert.contado" style=" display: flex; gap: 5px; justify-content: center; align-items: center; width: fit-content; background-color: #4460A0; padding: 3px 5px; border-radius: 5px;">
-  <img alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" />
-  <p style="padding: 0px; margin: 0px; color: #fff; font-weight: bold;">Facebook</p>
-</a>
-</div>
+
+<a href="https://www.linkedin.com/in/marc-eubert-contado-846996290"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.facebook.com/marceubert.contado"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 
 <br />
 <br />
